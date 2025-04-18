@@ -41,9 +41,9 @@ https://pokeapi.co/api/v2/pokemon/
 ## Capturas
 
 <div style="display: flex; flex-direction: row; gap: 10px;">
-    <img src="/assets/images/image6.png" alt="Captura de pantalla" width="400">
     <img src="/assets/images/image5.png" alt="Captura de pantalla" width="400">
+    <img src="/assets/images/image4.png" alt="Captura de pantalla" width="400">
     <img src="/assets/images/image3.png" alt="Captura de pantalla" width="400">
-    <img src="/assets/images/image.png" alt="Captura de pantalla" width="400">
     <img src="/assets/images/image2.png" alt="Captura de pantalla" width="400">
+    <img src="/assets/images/image.png" alt="Captura de pantalla" width="400">
 </div>
