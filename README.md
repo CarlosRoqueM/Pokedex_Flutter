@@ -3,6 +3,9 @@
 
 Pokedex App es una aplicación desarrollada con Flutter que permite a los usuarios explorar información sobre diferentes Pokémon. La aplicación utiliza una arquitectura moderna basada en `flutter_bloc` y `hydrated_bloc` para la gestión del estado, y aprovecha diversas bibliotecas para mejorar la experiencia del usuario.
 
+# UI
+ https://www.figma.com/design/i5UA8x8Sn1B31npx1pP6s4/Pokédex---Pokémon-App--Community-?node-id=1018-29177&t=TQeY2mjZiNtPPtLs-0
+
 ## Características
 
 - **Exploración de Pokémon**: Consulta información detallada sobre diferentes Pokémon.
@@ -22,3 +25,9 @@ Pokedex App es una aplicación desarrollada con Flutter que permite a los usuari
    ```bash
    git clone https://github.com/CarlosRoqueM/Pokedex_Flutter.git
    cd pokedex
+
+## lib/
+├── main.dart          # Punto de entrada de la aplicación
+├── presentation/           # Pantallas de la aplicación
+├── common/widgets/           # Componentes reutilizables
+├── common/asstes/           # Configuracion de theme e imagenes y vectores
