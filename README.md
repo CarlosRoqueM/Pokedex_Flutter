@@ -10,6 +10,14 @@ Pokedex App es una aplicación desarrollada con Flutter que permite a los usuari
 - **Imágenes en caché**: Utiliza `cached_network_image` para optimizar la carga de imágenes.
 - **Compatibilidad multiplataforma**: Disponible para Android, iOS, Windows, macOS, Linux y web.
 
+## Dependencias principales
+
+- **flutter_bloc: Gestión de estado reactiva.**
+- **hydrated_bloc: Persistencia de estado.**
+- **cached_network_image: Carga eficiente de imágenes.**
+- **google_fonts: Fuentes personalizadas.**
+- **flutter_svg: Renderizado de gráficos SVG.**
+
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/CarlosRoqueM/Pokedex_Flutter.git
