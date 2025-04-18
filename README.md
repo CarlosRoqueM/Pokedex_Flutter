@@ -34,3 +34,7 @@ Pokedex App es una aplicación desarrollada con Flutter que permite a los usuari
 ├── presentation/           # Pantallas de la aplicación
 ├── common/widgets/           # Componentes reutilizables
 ├── common/asstes/           # Configuracion de theme e imagenes y vectores
+
+## Capturas
+
+![alt text](image.png)
