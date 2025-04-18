@@ -12,5 +12,5 @@ Pokedex App es una aplicación desarrollada con Flutter que permite a los usuari
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/usuario/pokedex.git
+   git clone https://github.com/CarlosRoqueM/Pokedex_Flutter.git
    cd pokedex
